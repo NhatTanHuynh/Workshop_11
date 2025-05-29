@@ -16,7 +16,7 @@ void Tiger::eat()
 }
 
 void Tiger::sleep() {
-    cout << "The " << name << " sleeps silently..." << endl;
+    cout << "The Tiger sleeps silently..." << endl;
 }
 
 
