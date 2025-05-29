@@ -1,4 +1,4 @@
-#include "TIger.h"
+#include "Tiger.h"
 
 Tiger::Tiger(string pName) : Animal(pName, "Tiger")
 {
@@ -18,3 +18,5 @@ void Tiger::eat()
 void Tiger::sleep() {
     cout << "The " << name << " sleeps silently..." << endl;
 }
+
+
