@@ -1,4 +1,4 @@
-#include "Tiger.h"
+#include "TIger.h"
 
 Tiger::Tiger(string pName) : Animal(pName, "Tiger")
 {
