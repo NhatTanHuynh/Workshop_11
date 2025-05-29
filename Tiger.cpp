@@ -17,7 +17,7 @@ cout << name << " the Tiger eats their meat voraciously!" << endl;
 
 
 void Tiger::sleep() {
-    cout << "The Tiger sleeps silently as it sleep." << endl;
+    cout << "The tiger snores loudly as it sleeps." << endl;
 }
 
 

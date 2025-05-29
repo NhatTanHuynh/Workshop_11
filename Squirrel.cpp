@@ -15,5 +15,5 @@ endl;
 }
 
 void Squirrel::sleep() {
-    cout << "The Squirrel sleeps silently..." << endl;
+    cout << "The squirrel sleeps silently..." << endl;
 }
