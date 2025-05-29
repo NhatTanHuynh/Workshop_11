@@ -1,4 +1,5 @@
 #include "Tiger.h"
+
 Tiger::Tiger(string pName) : Animal(pName, "Tiger")
 {
 kills = 0;
