@@ -1,19 +1,19 @@
-#include "TIger.h"
-
+#include "Tiger.h"
 Tiger::Tiger(string pName) : Animal(pName, "Tiger")
 {
-    kills = 0;
+kills = 0;
 }
 
 void Tiger::hunt()
 {
-    kills++;
+kills++;
 }
 
 void Tiger::eat()
 {
-    cout << name << " the Tiger eats their meat voraciously!" << endl;
+cout << name << " the Tiger eats their meat voraciously!" << endl;
 }
+
 
 void Tiger::sleep() {
     cout << "The Tiger sleeps silently..." << endl;
