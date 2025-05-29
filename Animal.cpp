@@ -11,5 +11,5 @@ void Animal::eat() {
 }
 
 void Animal::sleep() {
-    cout << "The generic animal sleeps...generically?" << endl;
+    cout << "The generic animal sleeps... generically?" << endl;
 }
